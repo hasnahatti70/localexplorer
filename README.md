@@ -106,9 +106,8 @@ local-explorer/
 5. **Activities:** Select activities based on the weather and submit your preferences.
 
 ## Screenshots
-### Login Interface
-- Simple form for user authentication.
-- <img width="958" alt="Image" src="https://github.com/user-attachments/assets/4820c5fd-96eb-4014-843c-b0bb60fef569" />
+
+<img width="958" alt="Image" src="https://github.com/user-attachments/assets/4820c5fd-96eb-4014-843c-b0bb60fef569" />
 <img width="959" alt="Image" src="https://github.com/user-attachments/assets/82a5515a-bdc7-44f3-918c-2b92b87a8da6" />
 <img width="959" alt="Image" src="https://github.com/user-attachments/assets/1f774293-ca29-4eed-8b6e-882c9b1f250f" />
 <img width="958" alt="Image" src="https://github.com/user-attachments/assets/86460ea5-4709-4150-9b09-7d62bbc05c8d" />
