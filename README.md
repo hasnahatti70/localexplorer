@@ -108,10 +108,12 @@ local-explorer/
 ## Screenshots
 ### Login Interface
 - Simple form for user authentication.
-<img width="701" alt="Image" src="https://github.com/user-attachments/assets/2eac3204-8941-4eda-b8f1-7a8434e5b085" />
-<img width="959" alt="Image" src="https://github.com/user-attachments/assets/1f774293-ca29-4eed-8b6e-882c9b1f250f" />
-<img width="958" alt="Image" src="https://github.com/user-attachments/assets/4820c5fd-96eb-4014-843c-b0bb60fef569" />
+- <img width="958" alt="Image" src="https://github.com/user-attachments/assets/4820c5fd-96eb-4014-843c-b0bb60fef569" />
 <img width="959" alt="Image" src="https://github.com/user-attachments/assets/82a5515a-bdc7-44f3-918c-2b92b87a8da6" />
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/1f774293-ca29-4eed-8b6e-882c9b1f250f" />
+
+
 <img width="958" alt="Image" src="https://github.com/user-attachments/assets/86460ea5-4709-4150-9b09-7d62bbc05c8d" />
 <img width="958" alt="Image" src="https://github.com/user-attachments/assets/38d94442-3d91-4cce-9c94-d430e3129e34" />
 <img width="680" alt="Image" src="https://github.com/user-attachments/assets/24e6d1c9-75ab-4f58-bbc7-5490d10c0f14" />
@@ -123,9 +125,11 @@ local-explorer/
 
 ### Chatbot
 - Minimalist chatbot for basic communication.
+  <img width="701" alt="Image" src="https://github.com/user-attachments/assets/2eac3204-8941-4eda-b8f1-7a8434e5b085" />
 
 ### Activities
 - Checkbox-based activity selection.
+  <img width="680" alt="Image" src="https://github.com/user-attachments/assets/24e6d1c9-75ab-4f58-bbc7-5490d10c0f14" />
 
 ## Known Issues
 - Limited chatbot functionality (future updates may include AI integration).
